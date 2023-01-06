@@ -23,3 +23,4 @@ Wasserdichte Antriebe (DC Motoren)
 
 Kamera / Video stream
 * https://makezine.com/projects/beginner-project-a-remote-viewing-camera-with-raspberry-pi/
+* https://www.reichelt.com/ch/de/raspberry-pi-kamera-5mp-75-ir-leds-rpi-cam-noir-mf-p291477.html?r=1
